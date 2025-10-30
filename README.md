@@ -30,9 +30,10 @@ I’m currently working through Cisco Networking modules and building a collecti
 - Earn my first remote tech role  
 
 ---
+
 ### 📫 Connect
 - GitHub: [AshcroftCyber](https://github.com/AshcroftCyber)
-- LinkedIn: [linkedin.com/in/victory-justice](www.linkedin.com/in/victory-justice-529236361)
+- LinkedIn: [Victory Justice](https://www.linkedin.com/in/victory-justice-529236361)
 
 
 <!--
