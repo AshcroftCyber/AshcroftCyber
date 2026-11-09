@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Victory Justice
+# 👋 Hi, I’m Nyxx
 
 💻 **Aspiring Cybersecurity Professional | Networking Student**
 
